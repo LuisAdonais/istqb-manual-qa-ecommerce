@@ -11,7 +11,7 @@
 | **Ref. TX**   | `**TX-01.05`**                                                                |
 | **Ref. TC**   | `**TC-01`**                                                                   |
 | **Ref. REQ**  | `**REQ-01`** / `**AC-01**`                                                    |
-| **Severidad** | Medium                                                                        |
+| **Severidad** | Low                                                                        |
 | **Prioridad** | Medium                                                                        |
 | **QA Owner**  | Luis Adonais Malave Gamardo                                                   |
 
