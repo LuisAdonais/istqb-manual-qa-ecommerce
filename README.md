@@ -91,7 +91,7 @@ flowchart LR
 | ✅ Pass Rate E2E (`TS-03`) | 100% |
 | ✅ Critical / High Defects at close | 0 |
 | ✅ Requirements Coverage | 7 / 7 `REQ` with at least 1 `TX` PASS |
-| 🔴 Open defects | 3 (**`BUG-01`** Medium · **`BUG-02`** Low · **`BUG-03`** Medium) |
+| 🔴 Open defects | 3 (**`BUG-01`** Low · **`BUG-02`** Low · **`BUG-03`** Medium) |
 | 📄 Artifacts produced | 19 Markdown documents |
 | 📅 Project period | Feb 2026 — May 2026 |
 | 🤖 AI-Gen prompts documented | 19 reproducible prompts |

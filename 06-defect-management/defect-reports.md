@@ -16,7 +16,7 @@
 
 | **`BUG`** | Title | **`TX`** | **`TC`** | Severity | Status | File | Jira |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **`BUG-01`** | Incoherence in price sequence and naming in search results | **`TX-01.05`** | **`TC-01`** | Medium | 🔴 Open | [bug-01-price-incoherence.md](./bug-01-price-incoherence.md) | [Issue](../05-test-execution/test-evidence/jira-evidence/2026-05-05_BUG-01_Jira-Issue.png) |
+| **`BUG-01`** | Incoherence in price sequence and naming in search results | **`TX-01.05`** | **`TC-01`** | Low | 🔴 Open | [bug-01-price-incoherence.md](./bug-01-price-incoherence.md) | [Issue](../05-test-execution/test-evidence/jira-evidence/2026-05-05_BUG-01_Jira-Issue.png) |
 | **`BUG-02`** | Capitalization inconsistency in sidebar category menu | **`TX-01.07`** | **`TC-03`** | Low | 🔴 Open | [bug-02-capitalization-inconsistency.md](./bug-02-capitalization-inconsistency.md) | [Issue](../05-test-execution/test-evidence/jira-evidence/2026-05-05_BUG-02_Jira-Issue.png) |
 | **`BUG-03`** | Missing SKU field on product details page | **`TX-01.08`** | **`TC-04`** | Medium | 🔴 Open | [bug-03-missing-sku-field.md](./bug-03-missing-sku-field.md) | [Issue](../05-test-execution/test-evidence/jira-evidence/2026-05-05_BUG-03_Jira-Issue.png) |
 

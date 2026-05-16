@@ -10,7 +10,7 @@
 | **Ref. TX**   | **`TX-01.05`**                                                               |
 | **Ref. TC**   | **`TC-01`**                                                                  |
 | **Ref. REQ**  | **`REQ-01`** / **`AC-01`**                                                   |
-| **Severity**  | Medium                                                                       |
+| **Severity**  | Low                                                                       |
 | **Priority**  | Medium                                                                       |
 | **QA Owner**  | Luis Adonais Malave Gamardo                                                  |
 

@@ -32,7 +32,7 @@ the result.
 flowchart TD
     SP["⚙️ system-prompt.md\nRole + Constant behavior"]
     CR["📐 context-rules.md\nProject context"]
-    FS["🔧 format-standardization.md\nCross-phase utility — applies to any phase"]
+    FS["🔧 prompt-format-std.md\nCross-phase utility — applies to any phase"]
 
     subgraph fase01["Phase 01 — Planning"]
         P00["prompt-00 · SUT"]
