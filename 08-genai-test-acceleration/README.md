@@ -31,7 +31,7 @@ el resultado.
 flowchart TD
     SP["⚙️ system-prompt.md\nRol + Comportamiento constante"]
     CR["📐 context-rules.md\nContexto del proyecto"]
-    FS["🔧 format-standardization.md\nUtilidad transversal — aplicable a cualquier fase"]
+    FS["🔧 prompt-format-std.md\nUtilidad transversal"]
 
     subgraph fase01["Fase 01 — Planning"]
         P00["prompt-00 · SUT"]
